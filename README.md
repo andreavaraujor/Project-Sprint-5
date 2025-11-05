@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Proyecto Sprint 5
 Trabajas como analista para el operador de telecomunicaciones Megaline. La empresa ofrece a sus clientes dos tarifas de prepago, Surf y Ultimate. El departamento comercial quiere saber cuál de los planes genera más ingresos para poder ajustar el presupuesto de publicidad.
 ##
@@ -38,5 +37,3 @@ En este proyecto, se trabajará con cinco tablas diferentes.
 - 'city': ciudad de residencia del usuario.
 - 'plan': nombre de la tarifa.
 =======
-# Project-Sprint-5
->>>>>>> 06b01f09ca75b28631bd332c6bca4295
